@@ -4,7 +4,7 @@
 package crafvy
 
 // APIVersion is the version of the API description this SDK was generated from.
-const APIVersion = "0.3.0"
+const APIVersion = "0.3.1"
 
 // Operations lists every operation of the API: its id, HTTP method and path ({name} = a path parameter).
 var Operations = []Operation{
